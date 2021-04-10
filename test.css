@@ -1,3 +1,12 @@
+body {
+	background-image:url(img1.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat:no-repeat;
+	margin:0px;
+	padding:75px; 
+	}
+
 .button {
     background-color: #4CAF50; /* Green */
     border: none;
